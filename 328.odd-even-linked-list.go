@@ -30,8 +30,6 @@ func oddEvenList(head *ListNode) *ListNode {
 
 	odd.Next = evenStart
 	return head
-
-
 }
 // @lc code=end
 
